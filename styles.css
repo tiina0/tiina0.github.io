@@ -178,12 +178,12 @@ footer {
     }
 
     .left {
-        padding: 20px 0px;
+        padding: 20px 0px 0px 0px;
         width: 100%;
     }
     
     .right {
-        padding: 20px 0px;
+        padding: 0px 0px 30px 0px;
         width: 100%;
     }
 
